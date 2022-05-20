@@ -1,1 +1,0 @@
-print("This's one small step for man, one giant leap for our research team")
